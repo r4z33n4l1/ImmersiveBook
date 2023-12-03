@@ -1,0 +1,49 @@
+{
+    "harry potter": [
+      {
+        "start": 1,
+        "end": 14,
+        "audio": "audio1.mp3"
+      },
+      {
+        "start": 15,
+        "end": 30,
+        "audio": "audio2.mp3"
+      }
+    ],
+    "hobit": [
+      {
+        "start": 1,
+        "end": 10,
+        "audio": "audio3.mp3"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "audio": "audio4.mp3"
+      }
+    ],
+    "test":[
+     {
+        "start": 1,
+        "end": 5,
+        "audio": "audio1.mp3"
+    },
+     {
+        "start": 6,
+        "end": 10,
+        "audio": "audio2.mp3"
+    },
+    {
+        "start": 11,
+        "end": 15,
+        "audio": "audio1.mp3"
+    },
+    {
+        "start": 16,
+        "end": 20,
+        "audio": "audio2.mp3"
+    }
+    ]
+  }
+  
